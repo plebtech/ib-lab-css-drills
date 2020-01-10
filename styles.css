@@ -1,0 +1,106 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: #93a1a1;
+}
+
+.readme-wrapper {
+
+}
+
+.hilight {
+    color: rgb(117, 132, 146);
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 1%;
+    padding: 1%;
+    border: 2px solid rgb(117, 132, 146);
+    border-radius: 10px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background: #ffffff;
+}
+
+#box2 {
+    background: #eeeeee;
+    // position: absolute;
+    // bottom: 657px;
+    // left: 530px;
+}
+
+#box3 {
+    background: #dddddd;
+}
+
+#box4 {
+    background: #cccccc;
+}
+
+.box-image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #999999;
+    position: relative;
+    top: 55px;
+    left: 55px;
+}
+
+h1 {
+    color: #93a1a1;
+}
+
+.original {
+    color: aliceblue;
+}
+
+.additional {
+    color: bisque;
+}
+
+#show1 {
+    color: #000;
+}
+
+#show2 {
+    color: #333;
+}
+#show3 {
+    color: #666;
+}
+#show4 {
+    color: #999;
+}
+#show5 {
+    color: #ccc;
+}
+
+ul {
+    color: brown;
+}
+
+#wars {
+    color: lawngreen;
+}
+
+.list {
+    border: 2px solid black;
+}
